@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(249, 250, 212);
+}
+
+
+
+h1 {
+    color: rgb(74,09,131);
+    font-family: sans-serif;
+}
+
+h2 {
+    color: rgb(104,99,219);
+    text-transform: uppercase;
+}
+
+h3 {
+    color: rgb(184,139,179);
+}
+
+h4 {
+    color: rgb(204,99,109);
+    line-height: 250%;
+    font-family: sans-serif;
+}
+h5 {
+    color: rgb(204,99,09);
+    line-height: 5%;
+}
+
